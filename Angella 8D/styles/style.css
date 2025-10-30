@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue;
+    color:#300000;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxQ3waW9tfDtl8kj3GIP8fUfuTkjGytGEHA&s);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+h1:hover{
+    color:aquamarine;
+}
+
+img{
+    height: 620px;
+    padding: 80px;
+}
+
+.hi{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 30px;
+}
+
+.hi p{
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
